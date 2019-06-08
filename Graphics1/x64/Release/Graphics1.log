@@ -1,0 +1,30 @@
+﻿  Graphics1.cpp
+c:\users\kythe\source\repos\graphics1\graphics1\graphics1.cpp(78): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\kythe\source\repos\graphics1\graphics1\graphics1.cpp(79): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\kythe\source\repos\graphics1\graphics1\graphics1.cpp(85): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\kythe\source\repos\graphics1\graphics1\graphics1.cpp(91): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\kythe\source\repos\graphics1\graphics1\graphics1.cpp(92): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\kythe\source\repos\graphics1\graphics1\graphics1.cpp(101): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\kythe\source\repos\graphics1\graphics1\graphics1.cpp(102): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+  Generating code
+  1 of 228 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Graphics1.vcxproj -> C:\Users\kythe\source\repos\Graphics1\x64\Release\Graphics1.exe
